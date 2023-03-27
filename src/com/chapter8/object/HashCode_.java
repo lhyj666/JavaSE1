@@ -10,6 +10,11 @@ public class HashCode_ {
         System.out.println("aa2.hashcode" + aa2.hashCode());
         System.out.println("aa3.hashcode" + aa3.hashCode());
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
     }
 }
 
