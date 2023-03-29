@@ -5,6 +5,7 @@ public class Finalize_ {
 
         Car bm = new Car("宝马");
         bm = null;
+        System.gc();
 
     }
 }
@@ -16,4 +17,10 @@ class Car {
         this.name = name;
     }
 
+//    @Override
+//    protected void finalize() throws Throwable {
+//        super.finalize();
+//        System.out.println("销毁了对象car"+ name);
+//        System.out.println("释放资源");
+//    }
 }

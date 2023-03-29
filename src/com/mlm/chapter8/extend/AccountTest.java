@@ -1,4 +1,4 @@
-package com.chapter8;
+package com.mlm.chapter8.extend;
 
 public class AccountTest {
     public static void main(String[] args) {
