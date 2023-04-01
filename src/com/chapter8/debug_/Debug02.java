@@ -1,4 +1,4 @@
-package com.debug_;
+package com.chapter8.debug_;
 
 public class Debug02 {
     public static void main(String[] args) {

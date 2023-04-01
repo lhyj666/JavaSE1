@@ -1,4 +1,4 @@
-package com.debug_;
+package com.chapter8.debug_;
 
 public class DebugExercise {
     //debug对象创建过程
